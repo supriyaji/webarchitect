@@ -468,7 +468,7 @@ footer a {
         text-align: center;
     }
 }
-@media (min-width:375px)and (max-width:480px) {
+@media (min-width:300px)and (max-width:480px) {
     .headline{
         font-size: 1.3rem;
         font-weight: 400;
