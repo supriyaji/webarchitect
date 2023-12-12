@@ -525,9 +525,11 @@ footer a {
 
     }
     .con{
+         display: none;
         font-weight: bold;
     }
     .ser2{
+         display: none;
         font-weight: bold;
     }
     .box{
